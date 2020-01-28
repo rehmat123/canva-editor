@@ -1,0 +1,22 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+.my-image-parent {
+    display: inline-block;
+    height: 213.91px;
+    margin-bottom: -19px;
+
+}
+.my-image {
+    height: 214.91px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: black;
+    width: 171px;
+}
+
+.rde-editor-items{
+    width: 350px !important;
+}
+.ant-collapse-content-box{
+    margin-left: 3px;
+    margin-right: 34px;
+}

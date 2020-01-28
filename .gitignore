@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+public/js
+public/index.html
+public/fonts
+<<<<<<< HEAD
+.idea/workspace.xml
+=======
+.idea/workspace.xml
+>>>>>>> 92fa38b1570e7e671e9e1e48b6864289f5c2ad39
