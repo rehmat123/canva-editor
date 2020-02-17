@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Design Editor
 - React Design Editor has started to develope direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
 
@@ -77,3 +78,7 @@
 - [x] SVG Element - development
 - [ ] Wireframes - development
 - [ ] Multiple Map - development
+=======
+# canva-editor
+React JS project to make cards using canva
+>>>>>>> a336745e7f9031c4567b3d9c90d8f5f4a41563eb
