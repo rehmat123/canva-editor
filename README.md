@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React Design Editor
 - React Design Editor has started to develope direct manipulation of editable design tools like Powerpoint, We've developed it with reactjs, ant.design, fabricjs
 
@@ -7,7 +7,7 @@
 - The project is constantly being developed to support a variety of functions, and its goal is to be able to draw workflow (BPMN) in the future.
 
 # Demos
-[React Design Editor](https://salgum1114.github.io/react-design-editor/)
+[React Design Editor](https://designatag.thesupportonline.net/)
 
 # Dependencies
 - React.js
@@ -22,7 +22,7 @@
 - babel
 
 # Getting Started
-- git clone https://github.com/salgum1114/react-design-editor.git - Clone the project
+- git clone https://github.com/rehmat123/canva-editor.git - Clone the project
 - npm start - Run script
 - http://localhost:8080 - Host access
 
@@ -81,4 +81,4 @@
 =======
 # canva-editor
 React JS project to make cards using canva
->>>>>>> a336745e7f9031c4567b3d9c90d8f5f4a41563eb
+
